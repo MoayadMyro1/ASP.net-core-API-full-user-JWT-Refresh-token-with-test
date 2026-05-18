@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestAPi/TestAPi.csproj" Id="fbbc262b-aad1-45fd-8b87-5cefa7c1925d" />
+  <Project Path="DriverApi.csproj" />
+</Solution>
